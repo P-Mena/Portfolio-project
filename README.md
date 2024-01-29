@@ -10,4 +10,4 @@ In this project, you will find:
 - A CSS file containing all the styles.
 - Lastly, there's a file with all the resources needed for styling.
 
-Feel free to explore the code and resources. If you have any questions or suggestions, don't hesitate to reach out. Thank you for checking out my project!
+Feel free to explore the code and resources. If you have any questions or suggestions, don't hesitate to reach out. Thank you for checking out my project!.
